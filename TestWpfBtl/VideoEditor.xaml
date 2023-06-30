@@ -1,0 +1,32 @@
+﻿<Window x:Name="main" x:Class="TestWpfBtl.VideoEditor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestWpfBtl"
+        mc:Ignorable="d"
+        Title="VideoEditor" Height="500" Width="800" Drop="main_Drop">
+    <Grid>
+        <StackPanel>
+            <Grid>
+                <Border BorderBrush="Aqua" BorderThickness="2" Margin="5 5 5 0">
+                    <MediaElement x:Name="mediaVideo" Height="340" VerticalAlignment="Top" MediaOpened="mediaVideo_MediaOpened"></MediaElement>
+                </Border>
+            </Grid>
+            <StackPanel>
+                <DockPanel  Height="45">
+                    <Button x:Name="btnPlay" Content="play" Width="100" Height="35" Margin="0 0 5 0" Click="btnPlay_Click"></Button>
+                    <Button x:Name="btnResume" Content="resume" Width="100" Height="35" Margin="0 0 5 0" Click="btnResume_Click"></Button>
+                    <Button x:Name="btnStop" Content="stop" Width="100" Height="35" Click="btnStop_Click"></Button>
+                    <Label Content="Vol:" FontSize="30" Margin="10 0 0 0"/>
+                    <Slider x:Name="Vol" Height="30" Margin="10 15 10 0" LargeChange="0.1" SmallChange="0.01" Value="1" Minimum="0" Maximum="1" ValueChanged="Vol_ValueChanged"></Slider>
+                </DockPanel>
+                <DockPanel>
+                    <Label  Content="Time: " Width="60" Height="35" FontSize="20"></Label>
+                    <Slider x:Name="seek" Height="30" Margin="10 15 10 0" ValueChanged="seek_ValueChanged"/>
+                </DockPanel>
+            </StackPanel>
+
+        </StackPanel>
+    </Grid>
+</Window>

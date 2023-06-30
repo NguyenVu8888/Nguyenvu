@@ -1,0 +1,168 @@
+W:\btl\TestWpfBtl\TestWpfBtl\obj\Debug\TestWpfBtl.csproj.AssemblyReference.cache
+W:\btl\TestWpfBtl\TestWpfBtl\obj\Debug\MainWindow.g.cs
+W:\btl\TestWpfBtl\TestWpfBtl\obj\Debug\App.g.cs
+W:\btl\TestWpfBtl\TestWpfBtl\obj\Debug\TestWpfBtl_Content.g.cs
+W:\btl\TestWpfBtl\TestWpfBtl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+W:\btl\TestWpfBtl\TestWpfBtl\obj\Debug\TestWpfBtl_MarkupCompile.cache
+W:\btl\TestWpfBtl\TestWpfBtl\obj\Debug\TestWpfBtl_MarkupCompile.lref
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\avcodec-57.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\avdevice-57.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\avfilter-6.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\avformat-57.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\avutil-55.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\postproc-54.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\swresample-2.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\swscale-4.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\Accord.dll.config
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\TestWpfBtl.exe.config
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\TestWpfBtl.exe
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\TestWpfBtl.pdb
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\Accord.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\Accord.Video.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\Accord.Video.FFMPEG.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\AForge.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\AForge.Video.DirectShow.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\AForge.Video.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\CommonServiceLocator.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\GalaSoft.MvvmLight.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\MathNet.Numerics.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\System.ValueTuple.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\System.Windows.Interactivity.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\Accord.xml
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\Accord.Video.xml
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\Accord.Video.FFMPEG.xml
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\AForge.xml
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\AForge.Video.xml
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\AForge.Video.DirectShow.xml
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\GalaSoft.MvvmLight.pdb
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\GalaSoft.MvvmLight.xml
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\MathNet.Numerics.xml
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\System.ValueTuple.xml
+W:\btl\TestWpfBtl\TestWpfBtl\obj\Debug\MainWindow.baml
+W:\btl\TestWpfBtl\TestWpfBtl\obj\Debug\TestWpfBtl.g.resources
+W:\btl\TestWpfBtl\TestWpfBtl\obj\Debug\TestWpfBtl.Properties.Resources.resources
+W:\btl\TestWpfBtl\TestWpfBtl\obj\Debug\TestWpfBtl.csproj.GenerateResource.cache
+W:\btl\TestWpfBtl\TestWpfBtl\obj\Debug\TestWpfBtl.csproj.CoreCompileInputs.cache
+W:\btl\TestWpfBtl\TestWpfBtl\obj\Debug\TestWpfBtl.csproj.CopyComplete
+W:\btl\TestWpfBtl\TestWpfBtl\obj\Debug\TestWpfBtl.exe
+W:\btl\TestWpfBtl\TestWpfBtl\obj\Debug\TestWpfBtl.pdb
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\Microsoft.Win32.Registry.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\NAudio.Asio.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\NAudio.Core.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\NAudio.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\NAudio.Midi.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\NAudio.Wasapi.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\NAudio.WinForms.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\NAudio.WinMM.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\System.Security.AccessControl.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\System.Security.Principal.Windows.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\Microsoft.Win32.Registry.xml
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\NAudio.xml
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\System.Security.AccessControl.xml
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\System.Security.Principal.Windows.xml
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\MaterialDesignColors.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\MaterialDesignThemes.Wpf.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\Microsoft.Xaml.Behaviors.dll
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\MaterialDesignColors.pdb
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\MaterialDesignThemes.Wpf.pdb
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\MaterialDesignThemes.Wpf.xml
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+W:\btl\TestWpfBtl\TestWpfBtl\bin\Debug\Microsoft.Xaml.Behaviors.xml
+W:\btl\TestWpfBtl\TestWpfBtl\obj\Debug\App.baml
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\avcodec-57.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\avdevice-57.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\avfilter-6.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\avformat-57.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\avutil-55.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\postproc-54.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\swresample-2.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\swscale-4.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\Accord.dll.config
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\TestWpfBtl.exe.config
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\TestWpfBtl.exe
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\TestWpfBtl.pdb
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\Accord.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\Accord.Video.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\Accord.Video.FFMPEG.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\AForge.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\AForge.Video.DirectShow.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\AForge.Video.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\CommonServiceLocator.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\GalaSoft.MvvmLight.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\MaterialDesignColors.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\MathNet.Numerics.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\Microsoft.Win32.Registry.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\NAudio.Asio.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\NAudio.Core.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\NAudio.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\NAudio.Midi.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\NAudio.Wasapi.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\NAudio.WinForms.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\NAudio.WinMM.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\System.Security.AccessControl.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\System.Security.Principal.Windows.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\System.ValueTuple.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\System.Windows.Interactivity.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\Accord.xml
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\Accord.Video.xml
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\Accord.Video.FFMPEG.xml
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\AForge.xml
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\AForge.Video.xml
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\AForge.Video.DirectShow.xml
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\GalaSoft.MvvmLight.xml
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\MaterialDesignColors.pdb
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\MathNet.Numerics.xml
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\Microsoft.Win32.Registry.xml
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\NAudio.xml
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\System.Security.AccessControl.xml
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\System.Security.Principal.Windows.xml
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\System.ValueTuple.xml
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\obj\Debug\MainScreen.g.cs
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\obj\Debug\MainWindow.g.cs
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\obj\Debug\ScreenCapture.g.cs
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\obj\Debug\SoundRecord.g.cs
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\obj\Debug\App.g.cs
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\obj\Debug\TestWpfBtl_Content.g.cs
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\obj\Debug\TestWpfBtl_MarkupCompile.cache
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\obj\Debug\TestWpfBtl_MarkupCompile.lref
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\obj\Debug\App.baml
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\obj\Debug\MainScreen.baml
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\obj\Debug\MainWindow.baml
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\obj\Debug\ScreenCapture.baml
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\obj\Debug\SoundRecord.baml
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\obj\Debug\TestWpfBtl.g.resources
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\obj\Debug\TestWpfBtl.Properties.Resources.resources
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\obj\Debug\TestWpfBtl.csproj.GenerateResource.cache
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\obj\Debug\TestWpfBtl.csproj.CoreCompileInputs.cache
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\obj\Debug\TestWpfBtl.csproj.CopyComplete
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\obj\Debug\TestWpfBtl.exe
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\obj\Debug\TestWpfBtl.pdb
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\obj\Debug\TestWpfBtl.csproj.AssemblyReference.cache
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\obj\Debug\VideoEditor.g.cs
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\obj\Debug\VideoEditor.baml
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\AForge.Imaging.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\AForge.Math.dll
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\AForge.Imaging.xml
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\bin\Debug\AForge.Math.xml
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\obj\Debug\PictureEditor.g.cs
+D:\bài tập từ VS\wfff\A Sucess\TestWpfBtl\TestWpfBtl\obj\Debug\PictureEditor.baml
